@@ -102,7 +102,7 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
+  type: git
   repository: git@github.com:Swcmb/blog.git
   branch: BlogPush
 
