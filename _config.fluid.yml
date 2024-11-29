@@ -371,7 +371,8 @@ navbar:
     - { key: "归档", link: "/archives/", icon: "iconfont icon-archive-fill" }
     - { key: "分类", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "标签", link: "/tags/", icon: "iconfont icon-tags-fill" }
-    - { key: "技术站", link: "", icon: "iconfont icon-code" }
+    - { key: "技术站", link: "https://technology-blog-pi.vercel.app/", icon: "iconfont icon-code" }
+    - { key: "图床", link: "https://telegraph-image-pi.vercel.app/", icon: "http://www.w3.org/2000/svg" }
     - { key: "关于", link: "/about/", icon: "iconfont icon-user-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
